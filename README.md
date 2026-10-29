@@ -58,8 +58,7 @@ House-Price-Prediction/
 ├── House_Price_Prediction.ipynb
 ├── HousePricePrediction.xlsx   # Add the dataset file here
 ├── README.md
-└── requirements.txt            # Optional: create this file
-```
+
 
 ## Installation
 
